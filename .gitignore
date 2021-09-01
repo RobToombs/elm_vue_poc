@@ -1,0 +1,28 @@
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+# OSX
+.DS_Store
+/frontend/elm/package-lock.json
+/frontend/elm/elm-stuff/
+/frontend/elm/node_modules/
+/frontend/elm/build/
+/lib/
+/package-lock.json
+/node_modules/
