@@ -11,14 +11,14 @@ const routes = [
     name: "Info",
     component: Information,
     meta: {
-      title: "Information",
+      title: "TRx | Information",
     },
   },
   {
     path: "/cards",
     name: "Cards",
     meta: {
-      title: "Cards",
+      title: "TRx | Cards",
     },
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route

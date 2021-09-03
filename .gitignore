@@ -26,3 +26,4 @@ nb-configuration.xml
 /lib/
 /package-lock.json
 /node_modules/
+/backend/lib/
